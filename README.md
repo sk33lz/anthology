@@ -6,10 +6,10 @@ I've created this open source music anthology to catalog any music I have found 
 [Pull Requests](https://github.com/sk33lz/anthology/pulls) are welcome for new music suggestions. I love new music!
 
 ## Artists
-View Artists
+[View Artists](artists.md)
 
 ## Albums
-View Albums
+[View Albums](albums.md)
 
 ## Tracks
-View Tracks
+[View Tracks](tracks.md)
