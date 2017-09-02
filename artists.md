@@ -1,1 +1,217 @@
+# Artists
+Music artists I have found over time, and some that others have suggested.
 
+*Note* Yeah, I need to fix the alpha sorting... This was just my initial brain dump.
+
+- The 13th Floor Elevators
+- Adonis
+- Afterglow
+- The Allman Brothers Band
+- Alvin & the Chipmunks
+- Arlo Guthrie
+- Armando
+- Augustus Pablo
+- Bachman Turner Overdrive
+- Bad Brains
+- The Band
+- The Beach Boys
+- Beastie Boys
+- The Beatles
+- Beck
+- Bernie Worrell
+- Big Daddy Kane
+- Big Tymers
+- Biz Markie
+- Black Flag
+- Bloodhound Gang
+- Blue Öyster Cult
+- Bob Marley & the Wailers
+- Boogie Down Productions
+- Bootsy Collins
+- Bradfields Martini
+- The Breeders
+- Brian Eno
+- BT
+- Buckethead
+- Buddy Holly
+- Buffalo Springfield
+- Butthole Surfers
+- The Byrds
+- CAN
+- Carlo Lio
+- The Cars
+- Cheap Trick
+- The Chemical Brothers
+- Coil
+- Coldcut
+- Colonel Claypool's Bucket of Bernie Brains
+- Cream
+- Crookers
+- Crosby, Stills & Nash
+- Crosby, Stills, Nash & Young
+- Crystal Castles
+- The Crystal Method
+- Curtis Mayfield
+- Cut Chemist
+- Cypress Hill
+- D4L
+- Danzig
+- Da Posse
+- Das EFX
+- Dead Kennedys
+- Deep Purple
+- DEVO
+- Disco Biscuits
+- DJ Pierre
+- DJ Shadow
+- Django Django
+- Donovan
+- The Doobie Brothers
+- The Doors
+- Dr. Dre
+- Easy-E
+- Electric Light Orchestra (ELO)
+- The Electric Prunes
+- Emerson, Lake & Palmer
+- EPMD
+- Eric B. & Rakim
+- Farley "Jackmaster" Funk
+- Fast Eddie
+- Fat Boys
+- Fatboy Slim
+- Fela Kuti
+- The Flaming Lips
+- Fleetwood Mac
+- Foghat
+- Frankie Knuckles
+- Funkadelic
+- Gang Starr
+- Gary Numan
+- George Thorogood & the Destroyers
+- Genesis
+- George Clinton
+- Gershon Jackson
+- The Golden Dawn
+- Gorillaz
+- Guns & Roses
+- Guru
+- Grand Funk Railroad
+- Harold Budd
+- Holy Fuck
+- How to Destroy Angels
+- Humble Pie
+- Ice Cube
+- Jackmaster
+- Jackson Browne
+- James Gang
+- James Taylor
+- Jane's Addiction
+- Jefferson Airplane
+- Jethro Tull
+- Jimi Hendrix
+- Joan Baez
+- Joe Smooth
+- John Digweed
+- John Lennon
+- Jonathan Hayes
+- Joni Mitchell
+- Josh Wink
+- Journey
+- King Tubby
+- Kraftwerk
+- KRS-One
+- Kruder & Dorfmeister
+- LCD Soundsystem
+- Leaders of the New School
+- Led Zeppelin
+- Les Claypool
+- The Les Claypool Frog Brigage
+- Les Claypool & the Holy Mackerel
+- Les Claypool's Duo De Twang
+- Lords of the Underground
+- Lou Reed
+- Ludacris
+- Major Lazer
+- Marilyn Manson
+- Marshall Jefferson
+- Master C & J
+- Melanie
+- MGMT
+- Michael Jackson
+- Mike Dunn
+- Ministry
+- Misfits
+- Mobb Deep
+- Moby
+- The Moody Blues
+- Mos Def
+- NAS
+- Nate Dogg
+- Neil Diamond
+- Neil Young
+- Nine Days Wonder
+- Nine Inch Nails
+- The Notorious B.I.G.
+- N.W.A.
+- The Octopus Project
+- The Offspring
+- Open Mind
+- The Orb
+- OutKast
+- Oysterhead
+- Parliament
+- Pet Shop Boys
+- Pete Seeger
+- Peter Gabriel
+- Peter, Paul and Mary
+- Phuture
+- Pink Floyd
+- The Police
+- Primus
+- Public Enemy
+- Psychedelphia
+- Q-Tip
+- Queen
+- Raffi
+- Rage Against the Machine
+- Ratatat
+- Rob Base & DJ EZ Rock
+- Rob Zombie
+- Robert Armani
+- Robert Owens
+- Run-D.M.C.
+- RZA
+- Santana
+- Sasha
+- Sausage
+- Silver Apples
+- Slick Rick
+- The Smashing Pumpkins
+- Snoop Dogg
+- Steely Dan
+- Steve Poindexter
+- Stevie Ray Vaughn
+- Strawberry Alarm Clock
+- Stray Cats
+- STS9 (Sound Tribe Sector 9)
+- Supertramp
+- System of a Down
+- Tame Impala
+- Tchami
+- Ten Years After
+- Thievery Corporation
+- Three 6 Mafia
+- Tiësto
+- Tony! Toni! Toné! 
+- Too $hort
+- Traffic
+- A Tribe Called Quest
+- Tycho
+- Van Morrison
+- The Ventures
+- Warren G
+- Warren Zevon
+- Ween
+- Woody Guthrie
+- Wu-Tang Clan
+- Yes
